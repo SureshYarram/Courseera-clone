@@ -7,7 +7,7 @@
 ---
 # Link to our Project website:
 
-https://github.com/saitej98/coursera-clone
+https://courseera-clone.vercel.app/
 
 ---
 
